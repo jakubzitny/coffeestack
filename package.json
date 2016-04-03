@@ -1,5 +1,5 @@
 {
-  "name": "coffeestack",
+  "name": "@avocode/coffeestack",
   "version": "1.2.0",
   "description": "CoffeeScript stack trace converter",
   "main": "./index.js",
